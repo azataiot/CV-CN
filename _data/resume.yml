@@ -111,10 +111,10 @@ others: #其他列表显示
 footer: #脚注多组
   print: #打印版markdown或者html
   screen:
-  - text: "简历脚注"
-  #   href: '/'
-  - text: "Made with &hearts; English Version"
+  - text: "English Version"
     href: "https://yaakovazat.com/CV/"
+  - text: "Made with &hearts;by Yaakov Azat"
+    href: "https://yaakovazat.com/"
 
 #页面额外js脚本，如xx统计
 scripts:
