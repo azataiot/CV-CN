@@ -4,26 +4,26 @@
 title: "Yaakov Azat || 亚库甫江·阿扎提的在线简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "亚库甫江·阿扎提"
-jobtitle: "阿里-法拉比哈萨克国立大学 CS 硕士  法国洛林大学能源学硕士" #可空不显示
+jobtitle: "哈萨克国立大学AI硕士;法国洛林大学能源硕士" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "youremail@example.com" #文本内容
-  href: 'mailto:youremail@example.com' #链接，无链接则空  
+- text: "yaakovazat@gmail.com" #文本内容
+  href: 'mailto:yaakovazat@gmail.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "1234567890"
-  href: 'tel:1234567890'
+- text: "+86 13240156994"
+  href: 'tel:+86 13240156994'
   icon: 'icons/phone.svg'
-- text: "your-website.com"
-  href: 'http://your-website.com'
+- text: "yaakovazat.com"
+  href: 'https://yaakovazat.com'
   icon: 'icons/web.svg'
-- text: "GitHubID"
-  href: 'https://github.com/NewFuture'
+- text: "yaakovazat"
+  href: 'https://github.com/yaakovazat'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
-  # - text: "地址"
-  #   icon: "icons/location.svg"
+- text: "哈萨克斯坦共和国阿拉木图市"
+  icon: "icons/location.svg"
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
