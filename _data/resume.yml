@@ -32,32 +32,36 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 哈萨克斯坦阿里法拉比国立大学(QS:222)
     duration: "2016-至今"
-    sub: 硕士研究生
+    sub: 硕士研究生(CS)
     detail: Computing Science and Engineering 专业(学术+教育双向); 研究方向-人工智能与机器学习. 论文- 基于人工智能卷积神经网络的哈萨克语综合处理(机器学习+CV), 于国内外各类杂志及学术研讨会发表文章 6 篇,获得荣誉 4项.
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
-
+  - title: 大庆师范学院
+    duration: 2012 - 2016
+    sub:  本科(理学学士)
+    detail: 物理教育学专业;专业排名前五;先后多次获得国家公派出国留学资格,本科期间总获得各类证书及荣誉 81 项,包括国家奖学金,国家励志奖学金,黑龙江省优秀留学生奖学金,黑龙江省十大励志成才成长典型等等.
+  - title: 马来西亚马来亚大学(QS:71(最高))
+    duration: 2014 - 2015
+    sub:  本科国际交换生(公派)
+    detail: 计算机材料科学专业;参与由英国,新加坡,马来西亚以及中国学生组成的 人造卫星研究项目,我负责数据分析与模拟仿真.
 - type: skills
   # name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+    - 高级编程语言- Python, C/C#
+    - 网络编程语言- JavaScript, HTML, CSS, HTML 5 
+    - 信号处理领域- AudioSigmo, DSP
+    - 科学计算与仿真- Matlab, Simulink, SPSS, Octave
+  - title: 掌握平台/工具
+    summary:  TensorFlow, Keras, Numpy, Pandas, Matplotlinb , Django, DATABASE, Wordpress, DSP Pro, Google Colab, Jupyter, Conda, PySci, pyqt, wxpy等
 
 - type: experience
-  name: 经验
+  name: 工作经验
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: 项目负责人
+    sub:  KazNU 人工智能实验室
+    duration: "2018年10月 - 至今"
     tags:
-    - 标签
+    - 人工智能,研究,实习
     summary: 职务或者工作总结(自动折叠)
     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
