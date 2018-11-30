@@ -87,30 +87,30 @@ main: #简历主要内容，
     duration: 2018年3月 - 2018年4月
     detail:  成功建立数学模型并构造基于 Matlab SIMULINK 的电力模型.(研究成果以发表为同名论文)
     sub: 法国哈萨克斯坦研究中心
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
+  # - title: Project Name
+  #   summary: Projects' introduction or summary
+  #   detail:
+  #     md: _data/demo.md
+  #   sub: Creator and maintainer.
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
-others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
-  content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
+# others: #其他列表显示
+# - type: others #ID可以为空
+#   name: '其他'
+#   content: #选择需要的格式
+#   - 单行文字
+#   - title: "加粗:"
+#     text: "列表项二"
+#   - title: "兴趣:"
+#     items: #单行列表
+#     - 睡觉
+#     - 吃饭
+#     - coding
+#   - title: 列表
+#     list:
+#     - 第一项
+#     - 第二项
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
