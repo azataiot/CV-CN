@@ -55,7 +55,7 @@ main: #简历主要内容，
     summary:  TensorFlow, Keras, Numpy, Pandas, Matplotlinb , Django, DATABASE, Wordpress, DSP Pro, Google Colab, Jupyter, Conda, PySci, pyqt, wxpy等
 
 - type: experience
-  name: 工作经验
+  name: 经验
   content:
   - title: 项目负责人
     sub:  KazNU 人工智能实验室
