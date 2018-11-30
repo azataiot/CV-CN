@@ -83,7 +83,7 @@ main: #简历主要内容，
 - type: projects
   name: Projects
   content:
-  - title: 基于四项参数的太阳能电池板介入国家电网系统仿真模拟以及优化(基于MATLAB/SIMULINK)
+  - title: 基于四项参数的太阳能电池板接入国家电网系统仿真模拟以及优化(基于MATLAB/SIMULINK)
     duration: 2018年3月 - 2018年4月
     detail:  成功建立数学模型并构造基于 Matlab SIMULINK 的电力模型.(研究成果以发表为同名论文)
     sub: 法国哈萨克斯坦研究中心
